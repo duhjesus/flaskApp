@@ -4,7 +4,7 @@ Source: youtuber "Udemy Tech"'s guide to building an app w/ flask.
 developing web App with flask/python
 or at the very least exploring this as a viable option.
 
-single python file and few html/ginger files(flask template language which
+single python file and few html/jinja files(flask template language which
 allows user to give some content or page to display)
 
 flask is python web framework( maps urls to python functions)
