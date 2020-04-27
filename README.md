@@ -26,4 +26,5 @@ simple blog app.
 9. flask app running with html content being served is done. next step have web app store posts
 10. users given currently avaiable posts and are allowed to make new posts.
 
-Source: Used youtuber "Udemy Tech"'s guide as a starting point to building an app w/ flask.
+###### basics learned from:
+Youtuber "Udemy Tech"'s guide as a starting point to building an app w/ flask.
