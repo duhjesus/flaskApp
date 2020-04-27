@@ -1,8 +1,5 @@
 # flaskApp
-Source: youtuber "Udemy Tech"'s guide to building an app w/ flask.
-
-developing web App with flask/python
-or at the very least exploring this as a viable option.
+Purpose: developing web App with flask/python or at the very least exploring this as a viable option.
 
 single python file and few html/jinja files(flask template language which
 allows user to give some content or page to display)
@@ -28,3 +25,5 @@ simple blog app.
 8. give html file to users using route / and import render_template func from Flask library
 9. flask app running with html content being served is done. next step have web app store posts
 10. users given currently avaiable posts and are allowed to make new posts.
+
+Source: Used youtuber "Udemy Tech"'s guide as a starting point to building an app w/ flask.
